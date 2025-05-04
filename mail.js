@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 
 // CONFIGURATION
 const config = {
-  email: "rizqi25604@gmail.com",
+  email: "your mail imap",
   port: 3001,
   checkInterval: 10000,
   tokenPath: path.join(__dirname, 'token.json'),
