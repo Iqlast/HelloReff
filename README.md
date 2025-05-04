@@ -56,14 +56,8 @@ result
 ![image](https://github.com/user-attachments/assets/184f61b0-2ced-4af8-aa92-c85183778fd9)
 
 
-VIP RESULTT
 
-![image](https://github.com/user-attachments/assets/b3d2f226-30f2-444d-bf73-cb4e3eed5c9b)
-
-
-
-
-VIP RESULT !!!    EASY TO USE 
+VIP RESULT !!!    EASY TO USE  AND BETTER EXPERIENCS
 
 ![image](https://github.com/user-attachments/assets/458e0ece-5f2d-4017-bee9-f5ece519e21c)
 
