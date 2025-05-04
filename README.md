@@ -26,8 +26,39 @@ depencies
 setting the credentials.json 
 
     nano credentials.json
+.
+
+    {
+      "web": {
+        "client_id": "your clint id",
+        "project_id": "name the project",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "your client secret",
+        "redirect_uris": ["http://localhost:3000/oauth2callback"]
+      }
+    }
+
 
 drop your email imap to mailbody.txt
+
+    example@gmail.com
+
+setting mail.js 
+
+    nano mail.js
+
+end setting
+
+    
+    // CONFIGURATION
+    const config = {
+      email: "yourmail@gmail.com",  // your mail here
+      port: 3001,
+      checkInterval: 10000,
+      tokenPath: path.join(__dirname, 'token.json'),
+      otpFilePath: path.join(__dirname, 'otp.txt') // Path for OTP file
 
 first run mail.js to aut
 
