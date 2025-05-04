@@ -57,7 +57,7 @@ result
 
 
 
-VIP RESULT !!!    EASY TO USE  AND BETTER EXPERIENCS
+VIP RESULT !!!    EASY TO USE  AND BETTER EXPERIENCS. JUTS DROP YOUR REFF CODE & RUN
 
 ![image](https://github.com/user-attachments/assets/458e0ece-5f2d-4017-bee9-f5ece519e21c)
 
