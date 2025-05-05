@@ -120,3 +120,9 @@ VIP RESULT !!!    EASY TO USE  AND BETTER EXPERIENCS. JUTS DROP YOUR REFF CODE &
 ![image](https://github.com/user-attachments/assets/458e0ece-5f2d-4017-bee9-f5ece519e21c)
 
 
+the x account
+
+![image](https://github.com/user-attachments/assets/3d955554-c673-419a-8739-d32dc0a1a17f)
+
+
+
