@@ -1,8 +1,35 @@
 AUTO REFF FOR https://club.hello.one?ref=3566143
 
 
-Free version and VIP
 
+Free version is now closed — only for VIP users now.
+
+If you want the script, just send me a coffee ☕ (your treat 😎), and I’ll send it to you.
+
+Features:
+
+🔁 Auto Referral System – fully automated
+
+🚫 Bypasses OTP – no need for codes
+
+🌐 Proxy Rotation Support – avoid bans easily
+
+⚙️ Fast & Stable – smooth performance
+
+🧠 Easy Setup – no complicated stuff like IMAP or email configs
+
+🛠️ Debug Support – I’ll help you if there are bugs (as long as the system isn’t patched)
+
+Simple, effective, and ready to run. Let me know if you're interested!
+
+
+Telegram https://t.me/iqnrrhmm
+
+
+
+
+
+Free version and VIP        
 
 if you want use with easy setup contac me on 
 
