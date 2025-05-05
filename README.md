@@ -2,9 +2,9 @@ AUTO REFF FOR https://club.hello.one?ref=3566143
 
 
 
-Free version is now closed — only for VIP users now.
+Free version closed — only for VIP users .
 
-If you want the script, just send me a coffee ☕ (your treat 😎), and I’ll send it to you.
+If you want the script, just send me a coffee ☕ 
 
 Features:
 
