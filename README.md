@@ -28,6 +28,11 @@ Telegram https://t.me/iqnrrhmm
 
 
 
+close
+
+
+
+
 
 Free version and VIP        
 
